@@ -1,3 +1,5 @@
-print("Hello world!")
-print("I am Learning AI!")
-print ("Misti have a boyfriend")
+import requests
+
+# Download a web page
+response = requests.get("https://api.github.com")
+print(response.status_code)  # Should print 200
