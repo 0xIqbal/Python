@@ -6,3 +6,5 @@ result = "wanna" in text
 if result == True:
     print("Yes, 'wanna' is present in text")
     
+if "pee" not in text:
+    print("'pee' is not in text")
