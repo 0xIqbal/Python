@@ -1,0 +1,1 @@
+list = ["apple","Arnob","Naan","People"]
