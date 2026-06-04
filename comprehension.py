@@ -3,5 +3,4 @@ new = []
 for i in a:
     if "a" in i:
         new.append(i)
-
-print(new)
+print(new) 
