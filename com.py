@@ -3,7 +3,6 @@ new = []
 for a in human:
     if "r" in a :
         new.append(a)
-
 print(new)
 
 # we can do it in one line.
